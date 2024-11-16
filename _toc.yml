@@ -4,4 +4,5 @@
 format: jb-book
 root: intro
 chapters:
+- file: clas_ex
 - file: regression_ex
